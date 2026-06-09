@@ -18,4 +18,4 @@ Regression Analysis (lab 8) [exercise](./Exercise10.ipynb) <br>
 ### Assignemnt 
 Comprehensive analysis of "Sleep and the Allocation of Time". Our study focuses on modeling **total sleep time including naps (measured in minutes)** as the primary response variable to evaluate how economic incentives influence time allocation.  <br>
 
-You can read our full [assignment](./assignment.ipynb) here.
+You can read our full [assignment](./assignmentcopy.ipynb) here.
